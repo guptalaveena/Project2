@@ -80,7 +80,7 @@ html{
 
 .profile-img{
     height : 400px;
-    width :  600px;
+    width :  500px;
     border-radius: 10px;
     border : solid 5px #35424a;
 }
@@ -230,7 +230,7 @@ html{
 }
 
 .services-box:hover {
-    background : #000;
+    background : #35424a;
     color: #fff;
     border-top-right-radius: 0;
     border-bottom-left-radius : 0;
@@ -277,8 +277,8 @@ html{
 }
 
 .contact .btn:hover{
-    border : 2px solid #000 !important;
-    background: #000 !important;
+    border : 2px solid #35424a !important;
+    background: #35424a !important;
     transition :.6s;
 }
 
