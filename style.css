@@ -80,6 +80,7 @@ html{
 
 .profile-img{
     height : 400px;
+    width :  600px;
     border-radius: 10px;
     border : solid 5px #35424a;
 }
